@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "2puRTW9WroQVYpTzAkyQqQg2PBAXwdevv4N7sXpvNgZm",
+  "symbol": "CAO",
+  "name": "Cacao",
+  "decimals": 8,
+  "logoURI": "https://bafybeihfxc3qu3xvfq3v6nvwnxk4w65kvvpvajgat25lobeunifutmru3a.ipfs.w3s.link/metadata.json",
+  "tags": ["Agriculture"]
+}
